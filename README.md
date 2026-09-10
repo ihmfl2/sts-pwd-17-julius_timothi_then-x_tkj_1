@@ -1,7 +1,9 @@
 # PT PLN (Persero)
-# Nama asli perusahaan: Perusahaan Listrik Negara
+## Nama asli perusahaan: 
+### Perusahaan Listrik Negara
 
-# Slogan: "Listrik untuk Kehidupan yang Lebih Baik" / "Electricity for a Better Life"
+## Slogan:
+"Listrik untuk Kehidupan yang Lebih Baik" / "Electricity for a Better Life"
 
 # Sejarah/Profil singkat: 
 1909: ANIEM didirikan di Surabaya untuk bisnis listrik.
@@ -16,17 +18,28 @@
 2022: Bentuk 4 subholding (PLN EPI, PLN Icon Plus, PLN Indonesia Power, PLN Nusantara Power).
 2025: Saham mayoritas diserahkan ke Biro Klasifikasi Indonesia, bagian holding Danantara.
 
-# Visi perusahaan: Visi PT PLN (Persero) menekankan kepemimpinan dalam penyediaan energi listrik yang handal dan berkelanjutan di Indonesia, dengan pelayanan yang bermutu dan berorientasi pada kepuasan pelanggan, serta mendukung pembangunan ekonomi dan sosial di seluruh wilayah Indonesia
+## Visi perusahaan:
+Visi PT PLN (Persero) menekankan kepemimpinan dalam penyediaan energi listrik yang handal dan berkelanjutan di Indonesia, dengan pelayanan yang bermutu dan berorientasi pada kepuasan pelanggan, serta mendukung pembangunan ekonomi dan sosial di seluruh wilayah Indonesia
 
-# Misi perusahaan: Mewujudkan Pelayanan Informasi Publik yang baik, yaitu transparan, efektif dan efisien, akuntabel serta dapat dipertanggungjawabkan. Meningkatkan pengelolaan dan Pelayanan Informasi Publik di lingkungan PLN untuk menghasilkan layanan Informasi yang berkualitas.
+## Misi perusahaan: 
+Mewujudkan Pelayanan Informasi Publik yang baik, yaitu transparan, efektif dan efisien, akuntabel serta dapat dipertanggungjawabkan. 
+Meningkatkan pengelolaan dan Pelayanan Informasi Publik di lingkungan PLN untuk menghasilkan layanan Informasi yang berkualitas.
 
-# Produk atau layanan Utama: pendistribusian kelistrikan
+## Produk atau layanan Utama: 
+pendistribusian kelistrikan
+pembangkitan tenaga listrik
+penyaluran tenaga listrik
 
-# Logo perusahaan:
+## Logo perusahaan:
 
-# Alamat/Kontak: Jalan Trunojoyo Blok M-I No. 135, RT. 6/RW.2, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160
+## Alamat/Kontak: 
+Jalan Trunojoyo Blok M-I No. 135, RT. 6/RW.2, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160
 
 
-# Link situs resmi/ Sosial media: https://www.pln.co.id/main
+## Link situs resmi/ Sosial media: 
+https://www.pln.co.id/main
+https://www.instagram.com/pln_id/
 
-# Sumber referensi:https://www.pln.co.id/about-us-en/board-of-directors-en - https://www.pln.co.id/about-us-en/company-profile-en
+## Sumber referensi:
+https://www.pln.co.id/about-us-en/board-of-directors-en
+https://www.pln.co.id/about-us-en/company-profile-en
