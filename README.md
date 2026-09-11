@@ -1,11 +1,11 @@
 # PT PLN (Persero)
 ## Nama asli perusahaan: 
-### Perusahaan Listrik Negara
+Perusahaan Listrik Negara
 
 ## Slogan:
 "Listrik untuk Kehidupan yang Lebih Baik" / "Electricity for a Better Life"
 
-# Sejarah/Profil singkat: 
+## Sejarah/Profil singkat:
 1909: ANIEM didirikan di Surabaya untuk bisnis listrik.
 1942: Diambil alih Jepang, dikelola Djawa Denki Djigjo Sja.
 1945: RI bentuk Djawatan Listrik & Gas Bumi (157,5 MW).
@@ -43,3 +43,6 @@ https://www.instagram.com/pln_id/
 ## Sumber referensi:
 https://www.pln.co.id/about-us-en/board-of-directors-en
 https://www.pln.co.id/about-us-en/company-profile-en
+
+
+Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung.
