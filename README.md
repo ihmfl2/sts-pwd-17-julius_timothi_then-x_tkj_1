@@ -1,3 +1,6 @@
+Nama: Julius timothi then
+No absen: 17
+Kelas: X TKJ 1
 # PT PLN (Persero)
 ## Nama asli perusahaan: 
 Perusahaan Listrik Negara
@@ -22,13 +25,13 @@ Perusahaan Listrik Negara
 Visi PT PLN (Persero) menekankan kepemimpinan dalam penyediaan energi listrik yang handal dan berkelanjutan di Indonesia, dengan pelayanan yang bermutu dan berorientasi pada kepuasan pelanggan, serta mendukung pembangunan ekonomi dan sosial di seluruh wilayah Indonesia
 
 ## Misi perusahaan: 
-Mewujudkan Pelayanan Informasi Publik yang baik, yaitu transparan, efektif dan efisien, akuntabel serta dapat dipertanggungjawabkan. 
-Meningkatkan pengelolaan dan Pelayanan Informasi Publik di lingkungan PLN untuk menghasilkan layanan Informasi yang berkualitas.
+- Mewujudkan Pelayanan Informasi Publik yang baik, yaitu transparan, efektif dan efisien, akuntabel serta dapat dipertanggungjawabkan. 
+- Meningkatkan pengelolaan dan Pelayanan Informasi Publik di lingkungan PLN untuk menghasilkan layanan Informasi yang berkualitas.
 
 ## Produk atau layanan Utama: 
-pendistribusian kelistrikan
-pembangkitan tenaga listrik
-penyaluran tenaga listrik
+- pendistribusian kelistrikan
+- pembangkitan tenaga listrik
+- penyaluran tenaga listrik
 
 ## Logo perusahaan:
 
@@ -45,4 +48,8 @@ https://www.pln.co.id/about-us-en/board-of-directors-en
 https://www.pln.co.id/about-us-en/company-profile-en
 
 
+## Pernyataan integritas akademik:
 Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung.
+
+## Petunjuk cara mengakses hasil website
+Buka file `index.html` menggunakan browser (Google Chrome, Microsoft Edge, Mozilla Firefox) Anda.
